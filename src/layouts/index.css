@@ -14,7 +14,7 @@ a {
 
 .Hero {
   height: 920px;
-  background: url('https://ws1.sinaimg.cn/large/006tKfTcgy1ftn1io1yiyj31kw0w0ad0.jpg');
+  background: url('https://ws2.sinaimg.cn/large/006tKfTcly1ftn39dl1akj31kw0w0tby.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -24,4 +24,28 @@ a {
   margin: 0 auto;
   padding: 150px 50px;
   text-align: center;
+}
+
+.Hero h1 {
+  margin: 0;
+  color: white;
+  font-size: 60px;
+  line-height: 1.2;
+}
+
+.Hero p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+.Hero a {
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 9px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 20px;
 }
